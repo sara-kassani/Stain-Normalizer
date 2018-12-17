@@ -1,1 +1,0 @@
-Stain-Normalizer 1
